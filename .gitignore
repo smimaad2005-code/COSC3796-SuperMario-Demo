@@ -17,3 +17,6 @@ dist/
 # Environment variables and secrets
 .env
 .env.*
+
+# Local screenshot capture tests
+mario_capture_test.png
