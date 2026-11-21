@@ -1,0 +1,19 @@
+
+# Private screenshots
+demo_screenshots/
+server_uploads/
+
+# Python generated files
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# PyInstaller generated files
+build/
+dist/
+*.spec
+
+# Environment variables and secrets
+.env
+.env.*
